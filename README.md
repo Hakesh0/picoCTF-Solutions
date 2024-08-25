@@ -1,1 +1,1 @@
-# CTF-Practice-pico-
+# CTF-Practice-pico
