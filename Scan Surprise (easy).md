@@ -1,5 +1,3 @@
-Here's the updated markdown file with that part removed:
-
 ```markdown
 # Scan Surprise (easy)
 
