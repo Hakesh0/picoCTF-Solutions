@@ -8,6 +8,9 @@ This repository contains detailed solutions and steps for solving various picoCT
 - `Scan Surprise (easy).md`: Steps to solve the "Scan Surprise" challenge, including how to use `wget` to download and extract the file, scan the picture, and find the flag.
 - `IntroToBurp (easy).md`: Steps to solve the "IntroToBurp" challenge, including how to use Burp Suite to capture and manipulate the form data to obtain the flag.
 - `Python Wrangling (easy).md`: Steps to solve the "Python Wrangling" challenge, including how to decode the flag using a Python script and the provided password.
+- `PW Crack 1 (easy).md`: Steps to solve the "PW Crack 1" challenge by analyzing the Python script and finding the password.
+- `PW Crack 2 (easy).md`: Steps to solve the "PW Crack 2" challenge by analyzing the Python script and finding the password.
+- `PW Crack 3 (medium).md`: Steps to solve the "PW Crack 3" challenge by decrypting the hash, verifying the correct password, and running the Python script.
 
 ## How to Use
 1. **Clone the Repository**
