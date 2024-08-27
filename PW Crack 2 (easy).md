@@ -1,26 +1,36 @@
-PW Crack 2 (Easy)
+# PW Crack 2 (easy)
 
-📝 Challenge Overview
-In this challenge, your task is to crack a password by analyzing a Python script to find the embedded password.
+## Challenge Description
+In this challenge, you are required to crack another password-protected Python script to obtain the flag.
 
-🚀 Steps to Solve
+## Steps to Solve
 
-Download the Challenge Files
-Use wget to download the necessary files to your virtual machine:
-wget <URL-to-challenge-files>
+1. **Download the Files**
+   - Use `wget` to download the necessary files to your virtual machine:
+     ```bash
+     wget <URL_of_the_files>
+     ```
 
-Examine the Python Script
-Use cat or nano to inspect the Python script and locate the line where the password is assigned:
-cat level2.py
-Look for a line similar to user_pw = "password".
+2. **Inspect the Python Script**
+   - Open the Python script using `cat` or `nano` to examine its contents:
+     ```bash
+     cat level2.py
+     ```
+   - Look for the line that sets the user password:
+     ```python
+     user_pw = "<password>"
+     ```
 
-Run the Python Script
-After identifying the password, execute the script:
-python3 level2.py
-Enter the password when prompted.
+3. **Run the Python Script**
+   - Execute the script using `python3` and provide the password when prompted:
+     ```bash
+     python3 level2.py
+     ```
+   - Enter the password found in the script.
 
-Retrieve the Flag
-After successfully entering the correct password, the script will reveal the flag.
+4. **Obtain the Flag**
+   - After entering the correct password, the script will reveal the flag.
 
-🏁 Flag
-FLAG: picoCTF{tr45h_51ng1ng_9701e681}
+## Flag
+```plaintext
+picoCTF{tr45h_51ng1ng_9701e681}
