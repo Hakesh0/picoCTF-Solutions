@@ -1,4 +1,4 @@
-##**PW Crack 5 (Medium)**
+## **PW Crack 5 (Medium)**
 
 ## 📝 Challenge Overview
 In this challenge, your task is to crack a password by matching a hash value with a password from a dictionary file.
