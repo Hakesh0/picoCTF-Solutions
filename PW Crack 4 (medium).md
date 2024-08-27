@@ -1,39 +1,42 @@
-Here's the content in a text file format:
+```markdown
+# **PW Crack 4 (Medium)**
 
-```
-PW Crack 4 (medium)
+## 📝 Challenge Overview
+In this challenge, you'll need to crack a password by decrypting a hash and identifying the correct password from a list of 100 possibilities.
 
-Challenge Overview
-This challenge involves cracking a password by decrypting a hash and finding the correct password from a list of 100 possible options.
+## 🚀 Steps to Solve
 
-Steps to Solve
+### 1. **Download the Challenge Files**
+   Use `wget` to download the necessary files to your virtual machine:
+   ```bash
+   wget <URL-to-challenge-files>
+   ```
 
-1. Download the Files
-   - Use wget to download the challenge files to your virtual machine:
-     wget <URL-to-challenge-files>
+### 2. **Decrypt the Hash**
+   Analyze the provided hash to determine the correct password.
 
-2. Decrypt the Hash
-   - You'll need to decrypt the hash provided in the challenge to find the correct password.
+### 3. **Examine the Python Script**
+   Use `cat` or `nano` to inspect the Python script and understand its logic:
+   ```bash
+   cat level4.py
+   ```
+   - Search for the line where the `user_pw` variable is defined.
+   - Note the list of 100 possible passwords included in the script.
 
-3. Read the Python Script
-   - Use cat or nano to read the Python script and understand its logic:
-     cat level4.py
-   - Look for the line in the script where the user_pw variable is assigned.
+### 4. **Identify the Correct Password**
+   - The script contains 100 passwords, but only one is correct.
+   - Verify each password against the hash until you find the correct one.
 
-4. Identify the Correct Password
-   - The script includes 100 possible passwords. Only one of them is correct.
-   - Verify each password against the hash to find the correct one.
-
-5. Run the Python Script
-   - Once you've identified the correct password, run the script in the terminal using:
-     python3 level4.py
+### 5. **Run the Python Script**
+   Once you've identified the correct password, execute the script:
+   ```bash
+   python3 level4.py
+   ```
    - Enter the correct password when prompted.
 
-6. Obtain the Flag
-   - After entering the correct password, you will receive the flag.
+### 6. **Retrieve the Flag**
+   After successfully entering the correct password, the script will output the flag.
 
-Flag
-FLAG: picoCTF{fl45h_5pr1ng1ng_cf341ff1}
+## 🏁 Flag
+**FLAG:** `picoCTF{fl45h_5pr1ng1ng_cf341ff1}`
 ```
-
-You can copy this content into a text file and save it as `PW_Crack_4_medium.txt`.
