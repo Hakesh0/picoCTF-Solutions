@@ -32,6 +32,6 @@ In this challenge, your task is to extract hidden information from an image file
    The output from the above command will reveal the flag.
 
 ## 🏁 Flag
-**FLAG:** `<Enter the flag here>`
+**FLAG:** ` picoCTF{3nh4nc3d_d0a757bf}`
 ```
 
