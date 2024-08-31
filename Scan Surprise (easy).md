@@ -13,6 +13,7 @@ Use `wget` to download the file to your virtual machine. Replace `<URL>` with th
 ```bash
 wget <URL>
 ```
+```
 
 ### 2. Extract the File
 
