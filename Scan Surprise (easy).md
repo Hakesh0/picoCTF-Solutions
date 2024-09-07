@@ -14,7 +14,7 @@ Use `wget` to download the file to your virtual machine. Replace `<URL>` with th
 wget <URL>
 ```
 ```
-
+```
 ### 2. Extract the File
 
 Once the file is downloaded, extract its contents. The file is typically in a compressed format, so you can use the following command:
