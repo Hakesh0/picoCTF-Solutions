@@ -11,6 +11,7 @@ In this challenge, your task is to search through a large number of files in a z
    ```bash
    wget <URL-to-challenge-files>
    ```
+   ```
 
 2. **Extract the Zip File**  
    Use the `unzip` command to extract the contents of the zip file:  
