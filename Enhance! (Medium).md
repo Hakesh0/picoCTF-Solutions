@@ -6,7 +6,7 @@ In this challenge, your task is to extract hidden information from an image file
 
 ## 🚀 Steps to Solve
 
-1. **Download the Image File**  
+1. **Download the Image  File**  
    Use `wget` to download the image file to your virtual machine:  
    ```bash
    wget <URL-to-challenge-files>
