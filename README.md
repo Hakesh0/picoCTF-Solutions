@@ -26,7 +26,7 @@ This repository contains detailed solutions and steps for solving various picoCT
    Follow the detailed instructions provided in each file to replicate the solution process and obtain the flag.
 
 ## Contributing
-Feel free to contribute by adding new challenges, improving existing solutions, or providing feedback. Please follow the guidelines outlined in the `CONTRIBUTING.md` file.
+Feel free to contribute by adding new challenges, improving existing solutions, or providing feedback. Please follow the guidelines outlined in the `CONTRIBUTING.md`  file.
 
 ## Acknowledgments
 Special thanks to the picoCTF team for providing these challenges and to the cybersecurity community for their support and contributions.
