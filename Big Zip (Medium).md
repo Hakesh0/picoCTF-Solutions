@@ -20,7 +20,7 @@ In this challenge, your task is to search through a large number of files in a z
    ```
 
 3. **Search for the Flag**  
-   After extracting the contents, use the `grep` command to search through all files and subdirectories for the flag. The `-r` flag will search recursively :
+   After extracting the contents, use the `grep` command to search through all files and subdirectories for the flag. The `-r` flag will search recursively:
    ```bash
    grep -r "picoCTF"
    ```
