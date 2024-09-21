@@ -12,7 +12,7 @@ This repository contains detailed solutions and steps for solving various picoCT
 - `PW Crack 2 (easy).md`: Steps to solve the "PW Crack 2" challenge by analyzing the Python script and finding the password.
 - `PW Crack 3 (medium).md`: Steps to solve the "PW Crack 3" challenge by decrypting the hash, verifying the correct password, and running the Python script.
 
-## How to Use
+## How to Use:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/picoCTF-Solutions.git
