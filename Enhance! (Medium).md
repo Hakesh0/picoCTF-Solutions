@@ -13,7 +13,7 @@ In this challenge, your task is to extract hidden information from an image file
    ```
 
 2. **Examine the Image File**  
-   Use `cat` or `strings` to examine the content of the image file:  
+   Use `cat` or `strings` to examine the content of the image file :  
    ```bash
    cat drawing.flag.svg
    ```
